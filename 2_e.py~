@@ -4,8 +4,6 @@
 # Challenge 2 -easy; r/dailyprogrammer
 # 29/06/2015
 
-# Compound interest calc
-
 def kamata():
     print "Koliko godina planirate da stedite?"
     br_god = raw_input("> ")
